@@ -1,0 +1,23 @@
+[
+  {
+    "titre": "Réseau LAN avec VLANs",
+    "description": "Conception et configuration d'un réseau d'entreprise avec 3 VLANs et routage inter-VLAN sous Cisco Packet Tracer.",
+    "categorie": "reseaux",
+    "image": "img/projet1.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Serveur DNS/DHCP sous Linux",
+    "description": "Installation et configuration des services DNS et DHCP sur Ubuntu Server pour un réseau local.",
+    "categorie": "linux",
+    "image": "img/projet2.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Test fibre OTDR",
+    "description": "TP de soudure et mesure de continuité fibre optique avec réflectomètre OTDR et soudeuse.",
+    "categorie": "fibre",
+    "image": "img/projet3.jpg",
+    "lien": "#"
+  }
+]
